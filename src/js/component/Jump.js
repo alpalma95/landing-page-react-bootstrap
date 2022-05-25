@@ -2,7 +2,7 @@ import React from "react";
 
 const Jump = () => {
 	return (
-		<div class="container-fluid mx-auto">
+		<div class="container mx-auto">
 			<div class="bg-light p-3">
 				<div class="m-3 mt-5">
 					<h1 class="mt-3 fw-light">A Warm Welcome!</h1>

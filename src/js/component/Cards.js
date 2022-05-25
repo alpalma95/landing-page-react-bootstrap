@@ -3,7 +3,7 @@ import Card from "./Card";
 
 const Cards = () => {
 	return (
-		<div className="container-fluid mx-auto my-5 row justify-content-between gap-4">
+		<div className="container mx-auto my-5 row justify-content-between gap-4">
 			<Card
 				title="Card 1"
 				description="Description of card 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
