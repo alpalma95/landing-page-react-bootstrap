@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = () => {
 	return (
-		<div className="container-fluid bg-dark">
+		<div className="container-fluid bg-dark sticky-top">
 			<nav className="navbar navbar-expand-md navbar-dark bg-dark">
 				<div className="container-fluid">
 					<a className="navbar-brand" href="#">
@@ -29,10 +29,10 @@ const Navbar = () => {
 								Home
 							</a>
 							<a className="nav-link" href="#">
-								Features
+								About
 							</a>
 							<a className="nav-link" href="#">
-								Pricing
+								Services
 							</a>
 							<a className="nav-link" href="#">
 								Contact
